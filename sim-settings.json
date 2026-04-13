@@ -1,0 +1,9 @@
+{
+  "targetChain": "Base_Sepolia",
+  "concurrency": 25,
+  "totalTransactions": 500,
+  "tasks": [
+    { "type": "ESCROW_RELEASE", "weight": 0.4 },
+    { "type": "DARKPOOL_ORDER", "weight": 0.6 }
+  ]
+}
