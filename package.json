@@ -1,0 +1,10 @@
+{
+  "name": "multichain-stress-tester",
+  "version": "1.0.0",
+  "description": "High-concurrency stress testing for Web3 protocols",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0"
+  }
+}
